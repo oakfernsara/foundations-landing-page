@@ -132,10 +132,17 @@ li {
     padding: 5% 10%;
     display: flex;
     justify-content: space-around;
+    border-radius: 10px;
 }
 
 .cta-right {
     margin: auto 0;
+}
+
+.cta-right > button {
+    border: #f9faf8 2px solid;
+    border-radius: 10px;
+    padding: 7px 30px;
 }
 
 .cta-left {
