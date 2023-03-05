@@ -37,6 +37,10 @@ button {
     padding: 0 15%;
 }
 
+.header > li {
+    color: #e5e7eb;
+}
+
 .nav {
     display: flex;
     justify-content: space-between;
@@ -128,11 +132,12 @@ li {
 
 .cta-inner {
     background-color: #3882f6;
-    color: #e5e7eb;
+    color: #f9faf8;
     padding: 5% 10%;
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
+    align-items: center;
 }
 
 .cta-right {
