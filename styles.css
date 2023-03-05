@@ -95,12 +95,14 @@ li {
 .info-group {
     display: flex;
     gap: 30px;
+    margin-bottom: 70px;
 }
 
 .info-box {
     border:#3882f6 4px solid;
     border-radius: 10px;
     min-height: 150px;
+    max-width: 150px;
 }
 
 .quote {
