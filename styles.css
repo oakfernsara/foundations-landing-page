@@ -89,3 +89,20 @@ li {
     border-radius: 10px;
     min-height: 150px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 10% 15%;
+}
+
+.quote-text > p {
+    font-size: 36px !important;
+    font-style: italic;
+    margin: 0;
+}
+
+.quote-source > p {
+    text-align: right;
+    font-weight: bold;
+    margin: 0;
+}
