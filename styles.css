@@ -69,3 +69,23 @@ li {
 .hero-image > img {
     max-width: 350px
 }
+
+.information {
+    padding: 0 15%;
+}
+
+.information > h2 {
+    margin: 40px;
+    text-align: center;
+}
+
+.info-group {
+    display: flex;
+    gap: 30px;
+}
+
+.info-box {
+    border:#3882f6 4px solid;
+    border-radius: 10px;
+    min-height: 150px;
+}
