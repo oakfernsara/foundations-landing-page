@@ -137,3 +137,7 @@ li {
 .cta-left > p {
     margin: 0;
 }
+
+.footer > p {
+    text-align: center;
+}
